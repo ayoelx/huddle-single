@@ -76,6 +76,7 @@ button {
     font-size: 1em;
     font-family: "Poppins", sans-serif;
     color: hsl(257, 40%, 49%);
+    background-color: #fff;
     border-style: none;
     padding: 10px 90px;
     border-radius: 50px;
